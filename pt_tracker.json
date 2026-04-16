@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_keyword": [
+        "tracker"
+      ],
+      "domain_suffix": [
+        "chdbits.xyz",
+        "daydream.dmhy.best",
+        "hhanclub.net",
+        "on.springsunday.net",
+        "ourbits.club",
+        "sunnytk.top",
+        "t.audiences.me",
+        "t.hddolby.com",
+        "t.hdhome.org",
+        "t.orcinusorca.org",
+        "t.ubits.club",
+        "zmpt.cc"
+      ]
+    }
+  ]
+}
