@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_keyword": [
+        "clubsim",
+        "spaceship",
+        "test-ipv6"
+      ],
+      "domain_suffix": [
+        "angry.im"
+      ]
+    }
+  ]
+}
