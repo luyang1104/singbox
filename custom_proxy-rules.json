@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "847977.xyz",
+        "emotn.app",
+        "emotn.com",
+        "emotn.io",
+        "flyvpn.de",
+        "hdhive.com",
+        "skyeysnow.com",
+        "yyho.de"
+      ]
+    }
+  ]
+}
