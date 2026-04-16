@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "audiences.me",
+        "azusa.wiki",
+        "hdhome.org",
+        "hdsky.me",
+        "hhan.club",
+        "hhanclub.net",
+        "hddolby.com",
+        "htpt.cc",
+        "jpopsuki.eu",
+        "kamept.com",
+        "kp.m-team.cc",
+        "monikadesign.uk",
+        "open.cd",
+        "ourbits.club",
+        "pt.keepfrds.com",
+        "ptchdbits.co",
+        "pterclub.com",
+        "pterclub.net",
+        "pttime.org",
+        "qingwapt.com",
+        "springsunday.net",
+        "sunnypt.top",
+        "tjupt.org",
+        "totheglory.im",
+        "u2.dmhy.org",
+        "ubits.club",
+        "ultrahd.net",
+        "zhuque.in",
+        "zmpt.cc"
+      ]
+    }
+  ]
+}
