@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "tracker.pterclub.net",
+        "on.springsunday.net",
+        "t.audiences.me",
+        "tracker.cinefiles.info",
+        "tracker.m-team.io",
+        "daydream.dmhy.best",
+        "t.hddolby.com",
+        "t.orcinusorca.org",
+        "tracker.ptchdbits.co",
+        "tracker.rainbowisland.co",
+        "tracker.hhan.club",
+        "daisuki.monikadesign.uk",
+        "tracker.keepfrds.com",
+        "t.hdhome.org",
+        "tracker.hdsky.me",
+        "t.ubits.club",
+        "tracker.totheglory.im",
+        "tracker.open.cd",
+        "tracker-public.tjupt.org",
+        "tracker.zhuque.in",
+        "sunnytk.top",
+        "tracker.qingwapt.org",
+        "tracker.qingwapt.com",
+        "tracker.qingwa.pro",
+        "tracker.hhanclub.net",
+        "tracker.sunnypt.top",
+        "ourbits.club",
+        "zmpt.cc",
+        "chdbits.xyz"
+      ]
+    }
+  ]
+}
